@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_programacion",
+  "version": "1.0.0",
+  "description": "plataforma web para restaurantes",
+  "main": "./js/main.js",
+  "scripts": {
+    "_init": "./js/main.js",
+    "form": "./js/form.js"
+  },
+  "keywords": [],
+  "author": "Jeyssson",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^17.7.2",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.16",
+    "npm": "^8.11.0"
+  }
+}
